@@ -1,0 +1,6 @@
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/CMakeFiles/Demo.dir
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/CMakeFiles/edit_cache.dir
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/CMakeFiles/rebuild_cache.dir
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/math/CMakeFiles/power.dir
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/math/CMakeFiles/edit_cache.dir
+/Users/shenweijie01/VSCodeProjects/CppProjects/cmake-study/Demo4/math/CMakeFiles/rebuild_cache.dir
